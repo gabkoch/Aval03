@@ -60,3 +60,5 @@ class Program
         return palavras.Length;
     }
 }
+//Gabriela Koch
+//https://github.com/gabkoch/Aval03.git
